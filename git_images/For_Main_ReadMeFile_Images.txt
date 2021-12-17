@@ -1,0 +1,1 @@
+When I take images to upload to github the images go here and then reference with markup code
